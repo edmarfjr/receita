@@ -1,0 +1,38 @@
+/* Flex */
+.flex {
+	display: flex;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+/* Flex Item */
+.item {
+	margin: 5px;
+    text-align: center;
+	border: 1px solid red;
+	padding: 10px;
+}
+
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+body{
+    padding:0;
+    margin: 15px;
+    font-size: 20px;
+    background-color: #fff;
+}
+
+ul {
+	list-style-type:none;
+}
