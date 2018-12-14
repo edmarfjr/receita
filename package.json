@@ -2,7 +2,7 @@
   "name": "receitas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edmarfjr.github.io/listaReceitas/",
+  "homepage": "https://edmarfjr.github.io/receita/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
